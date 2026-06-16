@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/varunsharma0208/LeetCode/tree/master/0007-reverse-integer) |
 | [2235-add-two-integers](https://github.com/varunsharma0208/LeetCode/tree/master/2235-add-two-integers) |
 | [3895-count-digit-appearances](https://github.com/varunsharma0208/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/varunsharma0208/LeetCode/tree/master/3908-valid-digit-number) |
