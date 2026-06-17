@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/varunsharma0208/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/varunsharma0208/LeetCode/tree/master/0217-contains-duplicate) |
 | [3895-count-digit-appearances](https://github.com/varunsharma0208/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/varunsharma0208/LeetCode/tree/master/0058-length-of-last-word) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/varunsharma0208/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
