@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/varunsharma0208/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/varunsharma0208/LeetCode/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/varunsharma0208/LeetCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/varunsharma0208/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3895-count-digit-appearances](https://github.com/varunsharma0208/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/varunsharma0208/LeetCode/tree/master/3908-valid-digit-number) |
 ## String
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varunsharma0208/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/varunsharma0208/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
