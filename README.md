@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/varunsharma0208/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/varunsharma0208/LeetCode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/varunsharma0208/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0367-valid-perfect-square](https://github.com/varunsharma0208/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/varunsharma0208/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/varunsharma0208/LeetCode/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/varunsharma0208/LeetCode/tree/master/2235-add-two-integers) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/varunsharma0208/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/varunsharma0208/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
