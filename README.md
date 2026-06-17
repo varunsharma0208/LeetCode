@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/varunsharma0208/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/varunsharma0208/LeetCode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/varunsharma0208/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0412-fizz-buzz](https://github.com/varunsharma0208/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/varunsharma0208/LeetCode/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/varunsharma0208/LeetCode/tree/master/2235-add-two-integers) |
 | [3895-count-digit-appearances](https://github.com/varunsharma0208/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -31,8 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/varunsharma0208/LeetCode/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/varunsharma0208/LeetCode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/varunsharma0208/LeetCode/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/varunsharma0208/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
