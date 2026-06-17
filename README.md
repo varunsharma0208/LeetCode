@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/varunsharma0208/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/varunsharma0208/LeetCode/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/varunsharma0208/LeetCode/tree/master/3099-harshad-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/varunsharma0208/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3895-count-digit-appearances](https://github.com/varunsharma0208/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/varunsharma0208/LeetCode/tree/master/3908-valid-digit-number) |
 ## String
