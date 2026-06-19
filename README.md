@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunsharma0208/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/varunsharma0208/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/varunsharma0208/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunsharma0208/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/varunsharma0208/LeetCode/tree/master/0217-contains-duplicate) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/varunsharma0208/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/varunsharma0208/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varunsharma0208/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/varunsharma0208/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunsharma0208/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String Matching
 |  |
