@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunsharma0208/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/varunsharma0208/LeetCode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/varunsharma0208/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/varunsharma0208/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/varunsharma0208/LeetCode/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/varunsharma0208/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/varunsharma0208/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/varunsharma0208/LeetCode/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/varunsharma0208/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/varunsharma0208/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/varunsharma0208/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/varunsharma0208/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/varunsharma0208/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varunsharma0208/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/varunsharma0208/LeetCode/tree/master/0058-length-of-last-word) |
