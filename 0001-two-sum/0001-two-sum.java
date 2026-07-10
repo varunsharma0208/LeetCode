@@ -4,10 +4,10 @@ class Solution {
         for(int i=0;i<nums.length;i++)
         {
             int value=nums[i];
-            int left=target-value;
-            if(map.containsKey(left))
+            int l=target-value;
+            if(map.containsKey(l))
             {
-                return new int[] {map.get(left),i};
+                return new int[] {map.get(l),i};
             }
             map.put(value,i);
         }
