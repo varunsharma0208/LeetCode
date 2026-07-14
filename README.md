@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/varunsharma0208/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/varunsharma0208/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/varunsharma0208/LeetCode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/varunsharma0208/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/varunsharma0208/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/varunsharma0208/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/varunsharma0208/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/varunsharma0208/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/varunsharma0208/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/varunsharma0208/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/varunsharma0208/LeetCode/tree/master/0509-fibonacci-number) |
