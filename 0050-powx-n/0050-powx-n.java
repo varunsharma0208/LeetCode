@@ -1,7 +1,11 @@
 class Solution {
     public double myPow(double x, int n) 
     {
-        long num = Math.abs((long) n);
+        long num = n;
+        if (num < 0)
+        {
+            num = -num;
+        }
         double result = 1.0;
         while (num != 0) 
         {
