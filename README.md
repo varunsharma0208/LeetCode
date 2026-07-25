@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/varunsharma0208/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/varunsharma0208/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/varunsharma0208/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/varunsharma0208/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/varunsharma0208/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/varunsharma0208/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/varunsharma0208/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/varunsharma0208/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varunsharma0208/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/varunsharma0208/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunsharma0208/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/varunsharma0208/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/varunsharma0208/LeetCode/tree/master/0367-valid-perfect-square) |
