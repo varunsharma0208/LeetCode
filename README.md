@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/varunsharma0208/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varunsharma0208/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/varunsharma0208/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/varunsharma0208/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/varunsharma0208/LeetCode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/varunsharma0208/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3895-count-digit-appearances](https://github.com/varunsharma0208/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varunsharma0208/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/varunsharma0208/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varunsharma0208/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/varunsharma0208/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/varunsharma0208/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/varunsharma0208/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/varunsharma0208/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/varunsharma0208/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/varunsharma0208/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/varunsharma0208/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/varunsharma0208/LeetCode/tree/master/2427-number-of-common-factors) |
