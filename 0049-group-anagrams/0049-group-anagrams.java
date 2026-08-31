@@ -4,10 +4,17 @@ class Solution {
         for(int i=0;i<strs.length;i++)
         {
             String str=strs[i];
-            char[] characters=str.toCharArray();
+            char[] characters = new char[str.length()];
+            for (int j = 0; j < str.length(); j++) 
+            {
+                characters[j] = str.charAt(j);
+            }
             Arrays.sort(characters);
-            String key = new String(characters);
-
+            String key="";
+            for(int k=0;k<characters.length;k++)
+            {
+                key=key+characters[k];
+            }
             if(map.containsKey(key))
             {
                 map.get(key).add(str);
