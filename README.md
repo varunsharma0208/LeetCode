@@ -280,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varunsharma0208/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/varunsharma0208/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/varunsharma0208/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/varunsharma0208/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
