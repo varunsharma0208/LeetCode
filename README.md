@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/varunsharma0208/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varunsharma0208/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/varunsharma0208/LeetCode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/varunsharma0208/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/varunsharma0208/LeetCode/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/varunsharma0208/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3895-count-digit-appearances](https://github.com/varunsharma0208/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/varunsharma0208/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/varunsharma0208/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/varunsharma0208/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/varunsharma0208/LeetCode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -319,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/varunsharma0208/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/varunsharma0208/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
