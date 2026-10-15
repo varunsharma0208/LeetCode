@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/varunsharma0208/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/varunsharma0208/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varunsharma0208/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/varunsharma0208/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/varunsharma0208/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/varunsharma0208/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varunsharma0208/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/varunsharma0208/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/varunsharma0208/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/varunsharma0208/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/varunsharma0208/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/varunsharma0208/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunsharma0208/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/varunsharma0208/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/varunsharma0208/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/varunsharma0208/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/varunsharma0208/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varunsharma0208/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/varunsharma0208/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/varunsharma0208/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/varunsharma0208/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/varunsharma0208/LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/varunsharma0208/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/varunsharma0208/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varunsharma0208/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/varunsharma0208/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -390,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/varunsharma0208/LeetCode/tree/master/0011-container-with-most-water) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/varunsharma0208/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
