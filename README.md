@@ -426,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varunsharma0208/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/varunsharma0208/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
