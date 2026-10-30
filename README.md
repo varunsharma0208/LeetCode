@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/varunsharma0208/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varunsharma0208/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/varunsharma0208/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/varunsharma0208/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/varunsharma0208/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/varunsharma0208/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/varunsharma0208/LeetCode/tree/master/0739-daily-temperatures) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/varunsharma0208/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/varunsharma0208/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/varunsharma0208/LeetCode/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/varunsharma0208/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
