@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varunsharma0208/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/varunsharma0208/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/varunsharma0208/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/varunsharma0208/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/varunsharma0208/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/varunsharma0208/LeetCode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/varunsharma0208/LeetCode/tree/master/0709-to-lower-case) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/varunsharma0208/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varunsharma0208/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/varunsharma0208/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/varunsharma0208/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/varunsharma0208/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
