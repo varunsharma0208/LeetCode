@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/varunsharma0208/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varunsharma0208/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/varunsharma0208/LeetCode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/varunsharma0208/LeetCode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/varunsharma0208/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/varunsharma0208/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/varunsharma0208/LeetCode/tree/master/0867-transpose-matrix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/varunsharma0208/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/varunsharma0208/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/varunsharma0208/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/varunsharma0208/LeetCode/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/varunsharma0208/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/varunsharma0208/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/varunsharma0208/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/varunsharma0208/LeetCode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/varunsharma0208/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/varunsharma0208/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/varunsharma0208/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/varunsharma0208/LeetCode/tree/master/0705-design-hashset) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -481,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunsharma0208/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/varunsharma0208/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
